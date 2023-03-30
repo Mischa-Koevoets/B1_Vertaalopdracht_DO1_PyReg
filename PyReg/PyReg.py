@@ -1,5 +1,5 @@
 import os
-
+avefawfea
 print ("========== PyReg ===========")
 print ("Welkom bij PyReg, het Python KassaSysteem voor en door DeveloperLand!")
 print ("Tel de kassa, en geef op hoeveel er nu in zit.")
